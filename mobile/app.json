@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Smart Parking Mobile",
+    "slug": "smart-parking-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.parking.smart"
+    }
+  }
+}
